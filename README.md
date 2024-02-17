@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Jay_VirtualAssistant](https://github.com/debjyotishakharu/Jay_VirtualAssistant))
+  - [Jay_VirtualAssistant](https://github.com/debjyotishakharu/Jay_VirtualAssistant)
 
 <h2> 🤳 Connect with me:</h2>
 
