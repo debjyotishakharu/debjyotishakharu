@@ -10,7 +10,7 @@
 [<img align="left" alt="DJS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/debjyotishakharu/
-
+<br/>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,8 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<b></b>
+
+
+<h4>
 - 🔭 I’m currently working on Exoplanet Habitability Detection
+</h4>
+<h4>
 - 🌱 I’m currently learning Application of AI in Astronomy/Cosmology
+</h4>
 
 
