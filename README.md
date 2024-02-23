@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<b></b>
 - 🔭 I’m currently working on Exoplanet Habitability Detection
 - 🌱 I’m currently learning Application of AI in Astronomy/Cosmology
 
