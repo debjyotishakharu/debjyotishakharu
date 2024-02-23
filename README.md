@@ -1,36 +1,28 @@
-<h1>Hi, I'm Debjyoti! <br/></h1>
+# Hi there, I'm Debjyoti! 👋
 
-<h2>👨‍💻 Personal Projects:</h2>
+## About Me
+I'm an Engineering graduate currently based in Bengaluru, passionate about Technology and Cosmology.
+
+## 👨‍💻 Personal Projects:
 
 - <b>Jay - A virtual Assistant based on Python</b>
   - [Jay_VirtualAssistant](https://github.com/debjyotishakharu/Jay_VirtualAssistant)
 
-<h2> 🤳 Connect with me:</h2>
+## 📫 How to reach me
 
-[<img align="left" alt="DJS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/debjyotishakharu/))
 
-[linkedin]: https://www.linkedin.com/in/debjyotishakharu/
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]((https://medium.com/@debjyotishakharu))
 <br/>
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
 
-<h4>
-- 🔭 I’m currently working on Exoplanet Habitability Detection
-</h4>
-<h4>
-- 🌱 I’m currently learning Application of AI in Astronomy/Cosmology
-</h4>
+## 🔭 Current Projects
+-  I’m currently working on Exoplanet Habitability Detection
+
+## 🌱 I’m currently learning
+-  I’m currently learning Application of AI in Astronomy/Cosmology
+
+## 📚 Latest Blog Posts
+- [Really… How Weird is the Quantum Realm?](https://medium.com/@debjyotishakharu/really-how-weird-is-the-quantum-realm-a40603b83734)
 
 
