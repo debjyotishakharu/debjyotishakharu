@@ -26,6 +26,6 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
 -  I’m currently learning Application of AI in Astronomy/Cosmology
 
 ## 📚 Latest Blog Posts
-- [Really… How Weird is the Quantum Realm?](https://medium.com/@debjyotishakharu/really-how-weird-is-the-quantum-realm-a40603b83734)
+- [Cosmology from the perspective of a “Non-Expert”: An amateur’s love story with the Universe](https://medium.com/@debjyotishakharu/cosmology-from-the-perspective-of-a-non-expert-an-ameteurs-love-story-with-the-universe-5fb58fcb8c73)
 
 
