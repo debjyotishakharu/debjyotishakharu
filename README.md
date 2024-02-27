@@ -7,6 +7,9 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
 
 - <b>Jay - A virtual Assistant based on Python</b>
   - [Jay_VirtualAssistant](https://github.com/debjyotishakharu/Jay_VirtualAssistant)
+ 
+- <b>Exoplanet Habitability Detection</b>
+  - [habitability_detection_for_exoplanets](https://github.com/debjyotishakharu/habitability_detection_for_exoplanets)
 
 ## 📫 How to reach me
 
