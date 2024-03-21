@@ -10,6 +10,9 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
  
 - <b>Exoplanet Habitability Detection</b>
   - [habitability_detection_for_exoplanets](https://github.com/debjyotishakharu/habitability_detection_for_exoplanets)
+ 
+- <b>Stellar Classification</b>
+  - [Stellar_classification_with_ML](https://github.com/debjyotishakharu/Stellar_classification_with_ML)
 
 ## 📫 How to reach me
 
@@ -20,7 +23,7 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
 
 
 ## 🔭 Current Projects
--  I’m currently working on Exoplanet Habitability Detection
+-  I’m currently working on Stellar Classification
 
 ## 🌱 I’m currently learning
 -  I’m currently learning Application of AI in Astronomy/Cosmology
