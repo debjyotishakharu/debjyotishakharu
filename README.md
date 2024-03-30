@@ -29,6 +29,6 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
 -  I’m currently learning Application of AI in Astronomy/Cosmology
 
 ## 📚 Latest Blog Posts
-- [Cosmology from the perspective of a “Non-Expert”: An amateur’s love story with the Universe](https://medium.com/@debjyotishakharu/cosmology-from-the-perspective-of-a-non-expert-an-ameteurs-love-story-with-the-universe-5fb58fcb8c73)
+- [What Are The Actual Chances Of A Real Life Zombie Apocalypse?](https://medium.com/@debjyotishakharu/what-are-the-actual-chances-of-a-real-life-zombie-apocalypse-5d1ecda5cf36)
 
 
