@@ -13,6 +13,12 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
  
 - <b>Stellar Classification</b>
   - [Stellar_classification_with_ML](https://github.com/debjyotishakharu/Stellar_classification_with_ML)
+ 
+- <b>CIFAR Object Classification</b>
+  - [CIFAR_Object_Classification](https://github.com/debjyotishakharu/CIFAR_Object_Classification)
+ 
+- <b>Face Mask Detection</b>
+  - [Face_Mask_Detection](https://github.com/debjyotishakharu/Face_Mask_Detection)
 
 ## 📫 How to reach me
 
