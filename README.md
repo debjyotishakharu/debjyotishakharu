@@ -5,6 +5,9 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
 
 ## 👨‍💻 Personal Projects:
 
+- <b>Knowthentic - An innovative AI based learning Web App</b>
+  - [Knowthentic](https://github.com/debjyotishakharu/AIlearningAPP)
+
 - <b>Jay - A virtual Assistant based on Python</b>
   - [Jay_VirtualAssistant](https://github.com/debjyotishakharu/Jay_VirtualAssistant)
  
