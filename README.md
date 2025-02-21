@@ -8,8 +8,8 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
 - <b>Knowthentic - An innovative AI based learning Web App</b>
   - [Knowthentic](https://github.com/debjyotishakharu/AIlearningAPP)
 
-- <b>Jay - A virtual Assistant based on Python</b>
-  - [Jay_VirtualAssistant](https://github.com/debjyotishakharu/Jay_VirtualAssistant)
+- <b>AI-Powered Research Assistant</b>
+  - [Research Paper Assistant](https://github.com/debjyotishakharu/Research-Paper-Summarizer)
  
 - <b>Exoplanet Habitability Detection</b>
   - [habitability_detection_for_exoplanets](https://github.com/debjyotishakharu/habitability_detection_for_exoplanets)
