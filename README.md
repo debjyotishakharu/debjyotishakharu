@@ -5,7 +5,7 @@ I'm an Engineering graduate currently based in Bengaluru, passionate about Techn
 
 ## 👨‍💻 Personal Projects:
 
-- <b>Knowthentic - An innovative AI based learning Web App</b>
+- <b>Knowthentic - An innovative AI Based Raodmap Generator & Resource Recommender</b>
   - [Knowthentic](https://github.com/debjyotishakharu/AIlearningAPP)
 
 - <b>AI-Powered Research Assistant</b>
