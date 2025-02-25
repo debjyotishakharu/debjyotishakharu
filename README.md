@@ -1,7 +1,7 @@
 # Hi there, I'm Debjyoti! 👋
 
 ## About Me
-I'm an Engineering graduate currently based in Bengaluru, passionate about Technology and Cosmology.
+I'm an AI/ML Engineer, passionate about Technology and Cosmology.
 
 ## 👨‍💻 Personal Projects:
 
