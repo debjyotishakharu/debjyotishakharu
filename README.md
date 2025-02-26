@@ -3,6 +3,11 @@
 ## About Me
 I'm an AI/ML Engineer, passionate about Technology and Cosmology.
 
+## 👨‍💻 Responsible-AI-Hallucination:
+
+- <b>Detect and quantify Hallucination in LLM responses under RAG scenarios</b>
+  - [Responsible-AI-Hallucination](https://github.com/Infosys/Infosys-Responsible-AI-Toolkit/tree/master/responsible-ai-Hallucination)
+
 ## 👨‍💻 Personal Projects:
 
 - <b>Knowthentic - An innovative AI Based Raodmap Generator & Resource Recommender</b>
@@ -32,7 +37,7 @@ I'm an AI/ML Engineer, passionate about Technology and Cosmology.
 
 
 ## 🔭 Current Projects
--  I’m currently working on Stellar Classification
+-  I’m currently working on Agentic Chatbot
 
 ## 🌱 I’m currently learning
 -  I’m currently learning Application of AI in Astronomy/Cosmology
