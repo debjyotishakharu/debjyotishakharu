@@ -1,7 +1,7 @@
 # Hi there, I'm Debjyoti! 👋
 
 ## About Me
-I'm an AI/ML Engineer, passionate about Technology and Cosmology.
+I'm an Generative AI Engineer, passionate about Technology and Cosmology.
 
 ## 👨‍💻 Responsible-AI-Hallucination:
 
