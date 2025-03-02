@@ -15,6 +15,9 @@ I'm an Generative AI Engineer, passionate about Technology and Cosmology.
 
 - <b>AI-Powered Research Assistant</b>
   - [Research Paper Assistant](https://github.com/debjyotishakharu/Research-Paper-Summarizer)
+
+- <b>Jay - An Agentic Chatbot</b>
+  - [Agentic Chatbot](https://github.com/debjyotishakharu/Agentic-Chatbot)
  
 - <b>Exoplanet Habitability Detection</b>
   - [habitability_detection_for_exoplanets](https://github.com/debjyotishakharu/habitability_detection_for_exoplanets)
