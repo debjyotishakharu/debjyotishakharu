@@ -6,6 +6,7 @@ I'm an Generative AI Engineer, passionate about Technology and Cosmology.
 ## 👨‍💻 Responsible-AI-Hallucination:
 
 - <b>Detect and quantify Hallucination in LLM responses under RAG scenarios</b>
+
   - [Responsible-AI-Hallucination](https://github.com/Infosys/Infosys-Responsible-AI-Toolkit/tree/master/responsible-ai-Hallucination)
 
 ## 👨‍💻 Personal Projects:
